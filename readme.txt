@@ -10,4 +10,4 @@ YOU KNOW I LOVE YOU SO.
 =======
 YUEQILUO
 >>>>>>> dev
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
